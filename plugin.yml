@@ -1,0 +1,12 @@
+name: MSCMultilangTextCommands
+version: 0.1
+api-version: 1.13
+main: pl.msco.mscmultilangtextcommands.Main
+prefix: MultiTextCmds
+author: MateuszStudiosCompany
+website: https://msco.pl
+
+commands:
+  multitextcmd:
+    description: Help with many things.
+  

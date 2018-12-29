@@ -1,0 +1,17 @@
+version: 0.1
+pluginname: "[MLTC]"
+defaultlangpriority:
+  - en
+  - pl
+messages:
+  example:
+    pl: "Przykladowa odpowiedz po Polsku!"
+    en: "Exaple responde in English."
+    de:
+      - "Nachricht in"
+      - "zwei Zeilen"
+    jp: "Ohayo!"
+  anothercmd:
+    en:
+      - "You can add multiple lines"
+      - "Like this"
